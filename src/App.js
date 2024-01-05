@@ -4,6 +4,7 @@ import Cover from './Components/Cover';
 import Login from './Components/Login';
 import SignUp from './Components/SignUp';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Chat from './Components/Chat';
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
                   <Route path="/" element={<Cover />} />
                   <Route path="/login" element={<Login />} />
                   <Route path="/signup" element={<SignUp />} />
+                  <Route path="/chatApp" element={<Chat /> } />
               </Routes>
           </BrowserRouter>
       </>

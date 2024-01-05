@@ -116,8 +116,8 @@
 
 .cover-page {
     display: inline-flex;
-    width: 1152px;
-    height: 900px;
+    width: 100vw;
+    height: 100vh;
     flex-shrink: 0;
     background: url('../public/Dark.png'),linear-gradient(180deg, #121212 0%, #000 100%),lightgray 0% 0% / 80.0000011920929px 80.0000011920929px repeat;
     background-blend-mode: screen, normal;

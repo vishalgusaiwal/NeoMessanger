@@ -22,3 +22,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 /obj/Debug
+*.vsidx
+/.vs/NeoMessanger_Frontend/FileContentIndex/6aa0c885-fc1f-4e5e-805a-478448602ae8.vsidx
+/.vs/NeoMessanger_Frontend/FileContentIndex/6aa0c885-fc1f-4e5e-805a-478448602ae8.vsidx
+/.vs/NeoMessanger_Frontend/FileContentIndex/7b6dd0ec-5564-4941-9d15-7456ac1b78ed.vsidx
+/.vs/NeoMessanger_Frontend/FileContentIndex/8708a808-d3a6-4e01-ab78-cd1d41d28313.vsidx
+/.vs/NeoMessanger_Frontend/FileContentIndex/ab919ccf-9aec-4392-8df1-d3c530db229d.vsidx
+/.vs/NeoMessanger_Frontend/v17/.suo
